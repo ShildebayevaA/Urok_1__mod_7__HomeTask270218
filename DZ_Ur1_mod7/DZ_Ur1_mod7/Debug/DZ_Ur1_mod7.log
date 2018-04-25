@@ -1,0 +1,4 @@
+﻿  DZ_Ur1_mod7.cpp
+e:\1 january 2018\c++\dz_ur1_mod7\dz_ur1_mod7\dz_ur1_mod7.cpp(28): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+e:\1 january 2018\c++\dz_ur1_mod7\dz_ur1_mod7\dz_ur1_mod7.cpp(213): warning C4715: BinPoisk: значение возвращается не при всех путях выполнения
+  DZ_Ur1_mod7.vcxproj -> E:\1 January 2018\C++\DZ_Ur1_mod7\Debug\DZ_Ur1_mod7.exe
